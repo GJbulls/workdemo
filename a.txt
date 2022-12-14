@@ -1,7 +1,6 @@
 figthing
-<<<<<<< HEAD
 red
-=======
 red
+공부
+visual code
 
->>>>>>> c6fd0dd705331390bf97c1f925b229976bc3bf07
