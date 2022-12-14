@@ -21,3 +21,12 @@
 > > This is a second blockquote
 >
 > This is a firtst blockquote
+
+### 목록 (List)
+
+#### 1) 순서가 있는 목록
+
+1. 목록 1
+2. 목록 2
+3. 목록 3
+4. 목록 4
