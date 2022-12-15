@@ -92,4 +92,4 @@ _이텔릭_
 ![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/mobile_152718856395.jpg)
 
 ![box](images/mobile.jpg)
-[![daum](images/daum.jpg)](https://www.daum.net/)
+[![daum](images/daum.png)](https://www.daum.net/)
